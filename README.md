@@ -1,5 +1,5 @@
 # SQL-fundamentals
-Overview
+
 This repository contains Exercise 1 from BrightLearn Data Analytics. It focuses on SQL fundamentals including SELECT, WHERE, ORDER BY, DISTINCT, and LIMIT.
 
 Dataset
